@@ -30,6 +30,6 @@ require (
 	golang.org/x/net v0.0.0-20210510120150-4163338589ed // indirect
 	golang.org/x/tools v0.1.2-0.20210512205948-8287d5da45e4
 	google.golang.org/genproto v0.0.0-20210524142926-3e3a6030be83
-	google.golang.org/protobuf v1.26.0
+	google.golang.org/protobuf v1.27.0
 	gopkg.in/yaml.v2 v2.4.0
 )
